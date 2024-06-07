@@ -12,7 +12,7 @@ window.onload = ()=>{
         var texto = document.getElementById("texto").value;
 
         var texto = `Hola me llamo ${nombre} ${apellido}, 
-        y queria recervar un turno de ${opcion} para el ${fecha}, ${texto}`;
+        y queria reservar un turno de ${opcion} para el ${fecha}, ${texto}`;
     
         var tel = +5491125105949;
     
